@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c90abdc-5b9c-4e37-bcce-34c23e1fd9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +40,9 @@
   </component>
   <component name="ProjectId" id="1SdKto8sE7ADSp5JmBVBRmaIIsN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -34,9 +55,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.practice01" />
+  <component name="RunManager" selected="Application.practice10">
+    <configuration name="practice10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.practice10" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
@@ -48,9 +69,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz01" />
+      <module name="batch219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz04" />
+      <module name="batch219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz06" />
+      <module name="batch219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz09" />
+      <module name="batch219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice01" />
+        <item itemvalue="Application.practice10" />
+        <item itemvalue="Application.quiz06" />
+        <item itemvalue="Application.quiz04" />
+        <item itemvalue="Application.quiz09" />
+        <item itemvalue="Application.quiz01" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +149,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
