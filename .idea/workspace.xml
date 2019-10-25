@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c90abdc-5b9c-4e37-bcce-34c23e1fd9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/practice10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/quiz09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/META-INF/batch219.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/day01/pr/pr7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.practice10">
-    <configuration name="practice10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.practice10" />
+  <component name="RunManager" selected="Application.pr02">
+    <configuration name="pr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr02" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.*" />
+          <option name="PATTERN" value="com.xsis.day01.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz01" />
+    <configuration name="pr04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr04" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="PATTERN" value="com.xsis.day01.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz04" />
+    <configuration name="pr05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr05" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="PATTERN" value="com.xsis.day01.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz06" />
+    <configuration name="pr6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr6" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="PATTERN" value="com.xsis.day01.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.quiz09" />
+    <configuration name="pr7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr7" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="PATTERN" value="com.xsis.day01.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice10" />
-        <item itemvalue="Application.quiz06" />
-        <item itemvalue="Application.quiz04" />
-        <item itemvalue="Application.quiz09" />
-        <item itemvalue="Application.quiz01" />
+        <item itemvalue="Application.pr02" />
+        <item itemvalue="Application.pr7" />
+        <item itemvalue="Application.pr6" />
+        <item itemvalue="Application.pr05" />
+        <item itemvalue="Application.pr04" />
       </list>
     </recent_temporary>
   </component>
