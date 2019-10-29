@@ -13,7 +13,7 @@ public class pr15 {
         if (number.matches(IS_NUMERIC)) {
             a = number.charAt(0);
             b = number.charAt(2);
-            if (a < 5) {
+            if (a < '5') {
                 switch (a) {
                     case '1':
                         satuan = "one";
